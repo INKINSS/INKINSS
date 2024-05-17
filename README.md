@@ -3,8 +3,6 @@
 <h3 align="center">Creo firmemente en la importancia de un código limpio y un diseño adecuado para lograr este propósito.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inkinss&label=Profile%20views&color=0e75b6&style=flat" alt="inkinss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inkinss&theme=" alt="inkinss" /></a> </p>
-
 - 🌱 Tecnologías que estoy aprendiendo **Astro, Diseño UI, Node, Express**
 - 💬 Puedes preguntar por **React, Tailwind, Diseño UI**
 - 📫 Puedes escribirme aqui **martinsamuelpp@gmail.com**
