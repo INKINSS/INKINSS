@@ -1,5 +1,5 @@
 <img src="https://github.com/INKINSS/INKINSS/blob/main/LinkedIn%20cover%20-%201.png" width="100%" />
-<h1 align="center">Hola!, yo soy samito</h1>
+<h1 align="center">Hola!, yo soy Samuel</h1>
 <h3 align="center">Creo firmemente en la importancia de un código limpio y un diseño adecuado para lograr este propósito.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inkinss&label=Profile%20views&color=0e75b6&style=flat" alt="inkinss" /> </p>
 
